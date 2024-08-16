@@ -1,4 +1,7 @@
-👋 Hi, I’m @marius-ne, student in Mechanical Engineering at RWTH Aachen in Germany. In my freetime I contribute to Space Team Aachen's "AQUIS" PocketCube satellite project. This goes well with my passion for Aerospace, where I'd like to develop my career. 
+Hello! I’m Marius, a student in Aerospace Engineering. 
+I obtained a Double Degree from RWTH Aachen in Germany and École Centrale de Lille in France. Currently I am doing a 6 month internship at the European Space Agency, at their ESTEC establishment in the Netherlands. Here I work on Vision Based Navigation for autonomous Guidance, Navigation and Control of Spacecraft. This can be applied to Rendezvous and Landing scenarios.
+
+Feel free to reach out.
 
 <!---
 marius-ne/marius-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
