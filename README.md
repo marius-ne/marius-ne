@@ -1,4 +1,4 @@
-Hello! I’m Marius, a student in Aerospace Engineering.🚀 
+Hello! I’m Marius Neuhalfen, a student in Aerospace Engineering.🚀 
 I obtained a Double Degree from RWTH Aachen in Germany and École Centrale de Lille in France. I speak German, French and English. 🇩🇪 🇫🇷 🇬🇧
 
 Currently I am doing a 6 month internship at the European Space Agency, at their ESTEC establishment in the Netherlands. Here I work on Vision Based Navigation for autonomous Guidance, Navigation and Control of Spacecraft. This can be applied to Rendezvous and Landing scenarios.
