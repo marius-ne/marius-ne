@@ -5,6 +5,9 @@ I have recently completed a 6 month internship at the European Space Agency, EST
 
 Feel free to reach out!😃
 
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marius-ne&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=marius-ne&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=marius-ne&theme=solarized)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
 <!---
 marius-ne/marius-ne is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
